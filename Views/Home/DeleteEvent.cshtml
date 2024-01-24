@@ -1,0 +1,15 @@
+﻿@model AsocitaitaPentruUnViitorSustenabil.Domain.Eveniment
+
+@{
+    ViewData["Title"] = "Sterge Eveniment";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="DeleteEvent" asp-controller="Home" method="post">
+    <div class="form-group">
+        <label for="Id">ID Eveniment</label>
+        <input type="text" class="form-control" id="Id" name="Id" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Sterge Eveniment</button>
+</form>

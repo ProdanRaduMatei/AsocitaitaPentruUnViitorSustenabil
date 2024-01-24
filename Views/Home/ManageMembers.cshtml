@@ -1,0 +1,40 @@
+﻿@model List<AsocitaitaPentruUnViitorSustenabil.Domain.Membru>
+
+@{
+    ViewData["Title"] = "Administrator membri";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nume</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+			@foreach (var membru in Model)
+			{
+				<tr>
+					<td>@membru.Id</td>
+					<td>@membru.Nume</td>
+					<td>@membru.Email</td>
+				</tr>
+			}
+        </tbody>
+    </table>
+}
+else
+{
+	<p>No members found.</p>
+}
+
+<div>
+    <a asp-action="FindMember" asp-controller="Home" class="btn btn-primary">Gaseste membru</a>
+    <a asp-action="AddMember" asp-controller="Home" class="btn btn-primary">Adauga membru</a>
+	<a asp-action="EditMember" asp-controller="Home" class="btn btn-primary">Editeaza membru</a>
+	<a asp-action="DeleteMember" asp-controller="Home" class="btn btn-primary">Sterge membru</a>
+</div>

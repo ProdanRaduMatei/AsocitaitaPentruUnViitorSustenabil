@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Membri xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Membru>
+    <Id>1</Id>
+    <Nume>John Doe</Nume>
+    <Email>john.doe@gmail.com</Email>
+  </Membru>
+  <Membru>
+    <Id>2</Id>
+    <Nume>Jane Doe</Nume>
+    <Email>jane.doe@gamil.com</Email>
+  </Membru>
+  <Membru>
+    <Id>3</Id>
+    <Nume>John Smith</Nume>
+    <Email>johnsmith@gmail.com</Email>
+  </Membru>
+  <Membru>
+    <Id>4</Id>
+    <Nume>Jane Smith</Nume>
+    <Email>janesmith@gmail.com</Email>
+  </Membru>
+</Membri>

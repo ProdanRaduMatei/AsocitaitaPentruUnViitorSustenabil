@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Evenimente-Proiecte>
+	<Eveniment-Proict>
+		<Id>1</Id>
+		<EvenimentId>1</EvenimentId>
+		<ProiectId>1</ProiectId>
+	</Eveniment-Proict>
+
+	<Eveniment-Proict>
+		<Id>2</Id>
+		<EvenimentId>1</EvenimentId>
+		<ProiectId>2</ProiectId>
+	</Eveniment-Proict>
+</Evenimente-Proiecte>

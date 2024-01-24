@@ -1,0 +1,38 @@
+﻿@model List<AsocitaitaPentruUnViitorSustenabil.Domain.Proiect>
+
+@{
+    ViewData["Title"] = "Administrator proiecte";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Id</th>
+				<th>Nume</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var proiect in Model)
+			{
+				<tr>
+					<td>@proiect.Id</td>
+					<td>@proiect.Nume</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<p>No projects found.</p>
+}
+
+<div>
+	<a asp-controller="Home" asp-action="FindProject" class="btn btn-primary">Cauta proiect</a>
+	<a asp-controller="Home" asp-action="AddProject" class="btn btn-primary">Adauga proiect</a>
+	<a asp-controller="Home" asp-action="EditProject" class="btn btn-primary">Editeaza proiect</a>
+	<a asp-controller="Home" asp-action="DeleteProject" class="btn btn-primary">Sterge proiect</a>
+</div>

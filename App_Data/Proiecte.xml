@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Proiecte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Proiect>
+    <Id>1</Id>
+    <Nume>Viitor Sustenabil</Nume>
+  </Proiect>
+  <Proiect>
+    <Id>2</Id>
+    <Nume>Viitor Educativ</Nume>
+  </Proiect>
+</Proiecte>

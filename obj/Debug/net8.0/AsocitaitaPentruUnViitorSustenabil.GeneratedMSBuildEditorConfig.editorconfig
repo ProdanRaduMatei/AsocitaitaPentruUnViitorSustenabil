@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AsocitaitaPentruUnViitorSustenabil
+build_property.RootNamespace = AsocitaitaPentruUnViitorSustenabil
+build_property.ProjectDir = E:\Vali Gadiu\AsocitaitaPentruUnViitorSustenabil\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Vali Gadiu\AsocitaitaPentruUnViitorSustenabil
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/AddEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/AddMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/AddProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/DeleteEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/DeleteMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/DeleteProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/EditEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/EditMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0TWVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/EditProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/FindEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5kRXZlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/FindMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5kTWVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/FindProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5kUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/ManageEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VFdmVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/ManageMembers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VNZW1iZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/ManageProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Vali Gadiu/AsocitaitaPentruUnViitorSustenabil/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ozi8isjugw

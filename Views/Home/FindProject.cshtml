@@ -1,0 +1,15 @@
+﻿@model AsocitaitaPentruUnViitorSustenabil.Domain.Proiect
+
+@{
+    ViewData["Title"] = "Gaseste Proiect";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="FindProject" asp-controller="Home" method="post">
+    <div class="form-group">
+        <label for="Nume">Nume Proiect</label>
+        <input type="text" class="form-control" id="Nume" name="Nume" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Gaseste Proiect</button>
+</form>

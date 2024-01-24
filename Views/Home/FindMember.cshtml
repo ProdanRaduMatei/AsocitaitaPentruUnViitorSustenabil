@@ -1,0 +1,15 @@
+﻿@model AsocitaitaPentruUnViitorSustenabil.Domain.Membru
+
+@{
+    ViewData["Title"] = "Gaseste Membru";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="FindMember" asp-controller="Home" method="post">
+    <div class="form-group">
+        <label for="Nume">Nume Membru</label>
+        <input type="text" class="form-control" id="Nume" name="Nume" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Gaseste membru</button>
+</form>

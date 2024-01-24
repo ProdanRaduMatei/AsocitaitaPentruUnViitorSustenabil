@@ -1,0 +1,39 @@
+﻿@model List<AsocitaitaPentruUnViitorSustenabil.Domain.Eveniment>
+
+@{
+    ViewData["Title"] = "Administrator evenimente";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nume</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var eveniment in Model)
+            {
+                <tr>
+                    <td>@eveniment.Id</td>
+                    <td>@eveniment.Nume</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No events found.</p>
+}
+
+<div>
+    <a asp-controller="Home" asp-action="FindEvent" class="btn btn-primary">Cauta eveniment</a>
+    <a asp-controller="Home" asp-action="AddEvent" class="btn btn-primary">Adauga eveniment</a>
+    <a asp-controller="Home" asp-action="EditEvent" class="btn btn-primary">Editeaza eveniment</a>
+    <a asp-controller="Home" asp-action="DeleteEvent" class="btn btn-primary">Sterge eveniment</a>
+</div>

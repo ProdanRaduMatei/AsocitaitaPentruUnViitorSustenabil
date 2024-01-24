@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Proiecte-Membri>
+	<Proiect-Membru>
+		<Id>1</Id>
+		<ProiectId>1</ProiectId>
+		<MembruId>1</MembruId>
+	</Proiect-Membru>
+
+	<Proiect-Membru>
+		<Id>2</Id>
+		<ProiectId>1</ProiectId>
+		<MembruId>2</MembruId>
+	</Proiect-Membru>
+
+	<Proiect-Membru>
+		<Id>3</Id>
+		<ProiectId>1</ProiectId>
+		<MembruId>3</MembruId>
+	</Proiect-Membru>
+
+	<Proiect-Membru>
+		<Id>4</Id>
+		<ProiectId>2</ProiectId>
+		<MembruId>2</MembruId>
+	</Proiect-Membru>
+
+	<Proiect-Membru>
+		<Id>5</Id>
+		<ProiectId>2</ProiectId>
+		<MembruId>3</MembruId>
+	</Proiect-Membru>
+
+	<Proiect-Membru>
+		<Id>6</Id>
+		<ProiectId>2</ProiectId>
+		<MembruId>4</MembruId>
+	</Proiect-Membru>
+</Proiecte-Membri>
